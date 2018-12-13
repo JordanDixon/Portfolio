@@ -1,8 +1,9 @@
 /*about header*/
 .featurette-heading{
   font-family: "Montserrat";
-  padding-top: 5%;
+  margin-top: 20px;
   color: #4F6367;
+  width: auto;
 }
 /*about subhead*/
 .lead{
@@ -11,6 +12,8 @@
   text-align: left;
   width: 250px;
   color: #4F6367;
+  margin-top: 4.5%;
+  width: auto;
 }
 .servicesoffered{
   font-family: "andada";
