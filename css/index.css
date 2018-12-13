@@ -12,6 +12,11 @@
   width: 250px;
   color: #4F6367;
 }
+.servicesoffered{
+  font-family: "andada";
+  color: #4F6367;
+  font-size: .8rem;
+}
 /*media queries*/
 @media (max-width: 576px) {
 

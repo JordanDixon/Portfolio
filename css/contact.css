@@ -5,10 +5,16 @@ h2{
   font-size: 1.4rem;
   text-transform: uppercase;
 }
-h4{
-  font-family: "montserrat", sans-serif;
-  color: #4F6367;
-}
 body{
   background-color: #EEF5DB;
+}
+.huge{
+	padding-top: 7%;
+	margin: auto;
+
+}
+.lead{
+	font-family: 'andada';
+	font-size: .8rem;
+	line-height: 5px;
 }
