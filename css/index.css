@@ -1,0 +1,36 @@
+/*about header*/
+.featurette-heading{
+  font-family: "Montserrat";
+  padding-top: 5%;
+  color: #4F6367;
+}
+/*about subhead*/
+.lead{
+  font-family: "andada";
+  font-size: .9rem;
+  text-align: left;
+  width: 250px;
+  color: #4F6367;
+}
+/*media queries*/
+@media (max-width: 576px) {
+
+  
+}
+
+@media (max-width: 1000px) {
+
+  
+}
+h1{
+  font-family: "montserrat", sans-serif;
+  color: #4F6367;
+  font-size: 4rem;
+}
+h4{
+  font-family: "montserrat", sans-serif;
+  color: #4F6367;
+}
+body{
+  background-color: #EEF5DB;
+}

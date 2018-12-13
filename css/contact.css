@@ -1,0 +1,14 @@
+h2{
+  color: #4F6367;
+  font-family: "montserrat", sans-serif;
+  opacity: 0.8;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+}
+h4{
+  font-family: "montserrat", sans-serif;
+  color: #4F6367;
+}
+body{
+  background-color: #EEF5DB;
+}

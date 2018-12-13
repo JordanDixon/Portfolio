@@ -1,0 +1,44 @@
+.navbar{
+    background-color: #B8D8D8;
+}
+.navbar-brand{
+  position: relative;
+  font-family: "montserrat";
+  color: #4F6367;
+  transition: color 0.25s ease-in;
+}
+.navbar-toggler-icon{
+  color: #4F6367;
+  font-size: 1.3rem;
+  padding-top: 10%;
+  padding-left: 60%;
+  opacity: 0.6;
+  transition: color 0.25s ease-out;
+}
+.navbar-toggler-icon:hover{
+  color: #fff;
+}
+.nav-link{
+    color: #7A9E9F;
+    font-family: "montserrat", sans-serif;
+    transition: color 0.25s ease-in;
+}
+a:hover{
+  color: #fff;
+}
+/*dropdown menu*/
+.dropdown-menu{
+    background-color: #B8D8D8;
+    border: none;
+}
+/*drop down menu highlight band*/
+.dropdown-item{
+  color: #7A9E9F;
+  font-family: "montserrat";
+  opacity: 1;
+}
+/*dropdown hovering over text*/
+.dropdown-item:hover{
+  color: #B8D8D8;
+  opacity: 1;
+}
